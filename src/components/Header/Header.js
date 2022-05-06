@@ -9,27 +9,27 @@ const Header = () =>  (
     <Div1>
       <Link href='/'> 
         <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: "20px" }}>
-          <AiFillFile size="3rem" /> <Span>Portifólio</Span>
+          <AiFillFile size="3rem" /> <Span>lucas gomide</Span>
         </a>
       </Link>
     </Div1>
 
     <Div2>
       <li>
-        <Link href="#projetos">
-          <NavLink>Projetos</NavLink>
+        <Link href="#projects">
+          <NavLink>projects</NavLink>
         </Link>
       </li>
 
       <li>
-        <Link href="#tecnologias">
-          <NavLink>Conhecimentos</NavLink>
+        <Link href="#knowledges">
+          <NavLink>knowledges</NavLink>
         </Link>
       </li>
 
       <li>
-        <Link href="#sobre-mim">
-          <NavLink>Sobre</NavLink>
+        <Link href="#about">
+          <NavLink>about</NavLink>
         </Link>
       </li>
     </Div2>

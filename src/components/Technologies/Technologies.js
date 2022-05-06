@@ -3,57 +3,57 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
-  <Section id='tecnologias'>
+  <Section id='knowledges'>
     <SectionDivider />
     <br />
     <br />
-    <SectionTitle>Conhecimentos</SectionTitle>
+    <SectionTitle>knowledges</SectionTitle>
     <SectionText>
-      Atuo na área de TI desde 2021, e aqui estão alguns de meus conhecimentos.
-      Tenho experiência profissional com JavaScript e React 
-      sendo utilizados para desenvolvimento web, Infraestrutura de TI e Suporte técnico.
+    I have been working with IT since 2021, and here are some of my knowledge.
+    I have professional experience with JavaScript and React being used for web development,
+    IT infrastructure and technical support.
     </SectionText>
     <List>
       <ListItem>
         <ListContainer>
-          <ListTitle>Linguagens</ListTitle>
+          <ListTitle>programming languages</ListTitle>
           <ListParagraph>
-            JavaScript, HTML5, CSS3, e Java.
+            JavaScript, HTML5, CSS3 and Java.
           </ListParagraph>
         </ListContainer>
       </ListItem>
 
       <ListItem>
         <ListContainer>
-          <ListTitle>Principais frameworks</ListTitle>
+          <ListTitle>main frameworks</ListTitle>
           <ListParagraph>
             Reactjs, 
             Nodejs,
             GraphQL,
             Nextjs,
-            Spring Boot e
-            Socket.io.
+            Socket.io and
+            Spring Boot.
           </ListParagraph>
         </ListContainer>
       </ListItem>
 
       <ListItem>
         <ListContainer>
-          <ListTitle>Banco de dados</ListTitle>
+          <ListTitle>databases</ListTitle>
           <ListParagraph>
-            SQL Server, MySQL e Firebase.
+            SQL Server, MySQL and Firebase.
           </ListParagraph>
         </ListContainer>
       </ListItem>
 
       <ListItem>
         <ListContainer>
-          <ListTitle>Infraestrutura</ListTitle>
+          <ListTitle>infrastructure</ListTitle>
           <ListParagraph>
-            Informática avançada,
-            Redes (TCP/IP),
+            Advanced Computing,
+            Networks (TCP/IP),
             Windows Server,
-            GPO e
+            GPO and
             Hardware.
           </ListParagraph>
         </ListContainer>
@@ -61,10 +61,10 @@ const Technologies = () =>  (
 
       <ListItem>
         <ListContainer>
-          <ListTitle>Suporte Técnico</ListTitle>
+          <ListTitle>support</ListTitle>
           <ListParagraph>
-            Suporte em hardware e sistemas, auxiliando o usuário/cliente e
-            buscando a melhor solução de maneira eficiente e rápida.
+          support in hardware and systems, helping the user/client and
+          searching for the best solution efficiently and quickly.
           </ListParagraph>
         </ListContainer>
       </ListItem>

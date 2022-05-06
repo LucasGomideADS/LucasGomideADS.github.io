@@ -1,25 +1,25 @@
 export const projects = [
   {
-    title: 'Calculadora com Reactjs',
-    description: "Calculadora básica desenvolvida com Reactjs.",
+    title: 'calculator',
+    description: "a basic calculator developed with Reactjs. one of my first projects learning react",
       image: '/images/calculator.png',
-      tags: [ 'React', 'Calculadora', 'JavaScript'],
+      tags: [ 'React', 'Calculator', 'JavaScript'],
     source: 'https://github.com/LucasGomideADS/calculadora-react',
     visit: 'https://github.com/LucasGomideADS/calculadora-react',
     id: 0,
   },
   {
-    title: 'Simulador de vendas',
-    description:"Desenvolvido para a xxPay com Reactjs, este simulador consiste em calcular o valor líquido e o valor de repasse de uma venda.",
+    title: 'sales simulator',
+    description:"a project developed for xxPay that consists of automating calculations previously made by employees.",
     image: '/images/simulador.png',
-    tags: ['React', 'JavaScript', 'Simulador'],
+    tags: ['React', 'JavaScript', 'Simulator'],
     source: 'https://github.com/LucasGomideADS/tela-simulador-2',
     visit: 'https://simulador-de-vendas-xxpay.netlify.app/',
     id: 1,
   },
   {
-    title: 'Chat',
-    description: "Realtime chat entre duas ou mais pessoas, desenvolvido com Reactjs, WebSocket e Nodejs.",
+    title: 'chat',
+    description: "a realtime chat between two or more people, developed with Reactjs, WebSocket and Nodejs.",
       image: '/images/chat.png',
       tags: ['React', 'WebSocket', 'JavasScript', 'Nodejs'],
     source: 'https://github.com/LucasGomideADS/realtime-chat-w-websocket',
@@ -27,8 +27,8 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Blog',
-    description: "Blog sobre desenvolvimento web desenvolvido com Reactjs, GraphQL, Tailwind CSS e Nextjs.",
+    title: 'blog',
+    description: "a blog about web development. developed with Reactjs, GraphQL, Tailwind CSS and Nextjs.",
     image: '/images/blog.png',
     tags: ['React', 'GrapQL', 'TailwindCSS', 'JavaScript', 'Nextjs'],
     source: 'https://google.com',
@@ -36,8 +36,8 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Portifólio/Currículo',
-    description: "Portifólio e currículo pessoal desenvolvido com Reactjs, Styled Components e Nextjs.",
+    title: 'portfolio',
+    description: "personal portfolio and curriculum. developed with Reactjs, Styled Components and Nextjs.",
     image: '/images/port.png',
     tags: ['React', 'StyledComponents', 'JavaScript', 'Nextjs'],
     source: 'https://google.com',
@@ -47,8 +47,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: "04/2021 a 06/2021", text: 'Com4 Data Center - Estágio', },
-  { year: "07/2021 a 12/2021", text: 'Lewe Negócios - Tempo integral', },
-  { year: "01/2022 até o momento", text: 'xxPay - Tempo integral', },
-  { year: "01/2022 até o momento", text: 'Suporte Técnico em Informática - Freelance', }
+  { year: "04/2021 to 06/2021", text: 'Com4 Data Center - support internship', },
+  { year: "07/2021 to 12/2021", text: 'Lewe Negócios - IT assistant', },
+  { year: "01/2022 to present", text: 'xxPay - IT analyst', },
+  { year: "01/2022 to present", text: 'Freelance - IT technical support ', }
 ];

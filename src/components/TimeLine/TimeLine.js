@@ -42,17 +42,17 @@ const Timeline = () => {
 
   return (
    
-    <Section id='sobre-mim'>
+    <Section id='about'>
       <SectionDivider/>
       <br /> 
       <br />
-      <SectionTitle>Sobre mim</SectionTitle>
+      <SectionTitle>about me</SectionTitle>
       <SectionText>
-        Tenho 19 anos e atualmente curso o quinto semestre em Análise e desenvolvimento de sistemas na Fatec Franca. Entrei
-        para o mercado de trabalho da TI em abril de 2021 na área de Suporte Técnico na empresa Com4 Data Center, em junho 
-        de 2021 me aprofundei mais em infraestrutura de TI e hardware na empresa Lewe Negócios, agora sigo como Analista de TI
-        em uma fintech chamada xxPay, sendo responsável pela infraestrutura de TI da empresa e pelo desenvolvimento de  algumas 
-        automações.
+        I'm 19 years old and currently taking the fifth semester in Systems Analysis and Development at Fatec Franca. I entered
+        for the IT job market in April 2021 in the Technical Support area at the company Com4 Data Center, in June
+        From 2021 I went deeper into IT infrastructure and hardware at Lewe Negócios, now I'm an IT Analyst
+        in a fintech called xxPay, being responsible for the company's IT infrastructure and for the development of some
+        automations.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

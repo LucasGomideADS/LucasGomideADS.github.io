@@ -8,14 +8,14 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Olá! Seja bem-vindo(a) ao meu portifólio!
+        hello there, welcome to my portfolio!
       </SectionTitle>
       <SectionText>
-        Me chamo Lucas Gomide e sou Analista de TI em uma fintech. Aqui você verá um breve resumo de minha
-        carreira profissional e os projetos que desenvolvi ao longo de minha atuação na área, tanto pessoais 
-        quanto profissionais!
+        my name is Lucas Gomide and I'm an IT Analyst at a fintech in Franca, São Paulo - Brazil. here 
+        you will see a brief summary of my professional career and the projects that I developed throughout
+        my work in the area, personal and professionals!
       </SectionText>
-      <Button onClick={() => window.location = 'https://contate.me/lucasgomide'}>Contato</Button>
+      <Button onClick={() => window.location = 'https://drive.google.com/file/d/1WujWh1Is7Qpnja9KXH8CiYMmoxvXGqmq/view?usp=sharing'}>download CV</Button>
     </LeftSection>
   </Section>
 );
