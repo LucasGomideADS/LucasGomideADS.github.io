@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <LinkList>
-        <LinkColumn> 
+        <LinkColumn>   
           <LinkTitle>email</LinkTitle>
           <LinkItem href='mailto:lucasgomidecv@gmail.com'>lucasgomidecv@gmail.com</LinkItem>
         </LinkColumn>
