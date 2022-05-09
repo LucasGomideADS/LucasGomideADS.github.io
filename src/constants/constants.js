@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/calculator.png',
       tags: [ 'React', 'Calculator', 'JavaScript'],
     source: 'https://github.com/LucasGomideADS/calculadora-react',
-    visit: 'https://github.com/LucasGomideADS/calculadora-react',
+    //visit: 'https://github.com/LucasGomideADS/calculadora-react',
     id: 0, 
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/simulador.png',
     tags: ['React', 'JavaScript', 'Simulator'],
     source: 'https://github.com/LucasGomideADS/tela-simulador-2',
-    visit: 'https://simulador-de-vendas-xxpay.netlify.app/',
+    //visit: 'https://simulador-de-vendas-xxpay.netlify.app/',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/chat.png',
       tags: ['React', 'WebSocket', 'JavasScript', 'Nodejs'],
     source: 'https://github.com/LucasGomideADS/realtime-chat-w-websocket',
-    visit: 'https://github.com/LucasGomideADS/realtime-chat-w-websocket',
+    //visit: 'https://github.com/LucasGomideADS/realtime-chat-w-websocket',
     id: 2,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/blog.png',
     tags: ['React', 'GrapQL', 'TailwindCSS', 'JavaScript', 'Nextjs'],
     source: 'https://google.com',
-    visit: 'https://webdevblog-lg.netlify.app/',
+    //visit: 'https://webdevblog-lg.netlify.app/',
     id: 3,
   },
   {
@@ -40,8 +40,8 @@ export const projects = [
     description: "personal portfolio and curriculum. developed with Reactjs, Styled Components and Nextjs.",
     image: '/images/port.png',
     tags: ['React', 'StyledComponents', 'JavaScript', 'Nextjs'],
-    source: 'https://google.com',
-    visit: 'https://lucas-gomide.netlify.app/',
+    source: 'https://github.com/LucasGomideADS/LucasGomideADS.github.io',
+    //visit: 'https://lucas-gomide.netlify.app/',
     id: 4,
   },
 ];
