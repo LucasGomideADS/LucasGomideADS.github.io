@@ -6,7 +6,7 @@ export const projects = [
       tags: [ 'React', 'Calculator', 'JavaScript'],
     source: 'https://github.com/LucasGomideADS/calculadora-react',
     visit: 'https://github.com/LucasGomideADS/calculadora-react',
-    id: 0,
+    id: 0, 
   },
   {
     title: 'sales simulator',
